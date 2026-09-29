@@ -1,0 +1,106 @@
+[
+  {
+    "source_id": "sample", "source_event_id": "lecture-ocean-floor",
+    "title": "Public Lecture: Mapping the Ocean Floor",
+    "description": "A one-hour talk for a general audience. Seating in rows; questions at the end are optional.",
+    "start": "2026-09-29T17:30:00-03:00", "end": "2026-09-29T18:30:00-03:00",
+    "venue": { "name": "Killam Memorial Library", "address": "6225 University Ave", "location": { "lat": 44.6373, "lng": -63.5916 } },
+    "price_cents": 0, "categories": ["science", "lecture"],
+    "registration_required": "no", "social": "low", "outdoor": "no"
+  },
+  {
+    "source_id": "sample", "source_event_id": "board-games-central",
+    "title": "Drop-in Board Games",
+    "description": "Tables of games; join one or play a solo puzzle game. Come and go as you like.",
+    "start": "2026-09-29T17:30:00-03:00", "end": "2026-09-29T19:30:00-03:00",
+    "venue": { "name": "Halifax Central Library", "address": "5440 Spring Garden Rd", "location": { "lat": 44.6425, "lng": -63.5751 } },
+    "price_cents": 0, "categories": ["games"],
+    "registration_required": "no", "late_entry_ok": "yes", "leave_early_ok": "yes",
+    "social": "medium", "outdoor": "no"
+  },
+  {
+    "source_id": "sample", "source_event_id": "garden-walk",
+    "title": "Evening Garden Walk",
+    "description": "A quiet, self-paced loop with a guide pointing out late-season plants.",
+    "start": "2026-09-29T18:15:00-03:00", "end": "2026-09-29T19:00:00-03:00",
+    "venue": { "name": "Halifax Public Gardens", "address": "Spring Garden Rd & South Park St", "location": { "lat": 44.6424, "lng": -63.5819 } },
+    "price_cents": 0, "categories": ["outdoors", "nature"],
+    "registration_required": "no", "social": "low", "outdoor": "yes"
+  },
+  {
+    "source_id": "sample", "source_event_id": "open-studio-drawing",
+    "title": "Evening Open Studio: Drawing",
+    "description": "Bring a sketchbook. Details were thin on the source page.",
+    "start": "2026-09-29T17:00:00-03:00", "end": "2026-09-29T19:00:00-03:00", "end_estimated": true,
+    "venue": { "name": "Dalhousie Arts Centre", "address": "6101 University Ave", "location": { "lat": 44.6367, "lng": -63.5878 } },
+    "price_cents": null, "categories": ["art"]
+  },
+  {
+    "source_id": "sample", "source_event_id": "pottery-intro",
+    "title": "Intro to Pottery Workshop",
+    "start": "2026-09-29T18:00:00-03:00", "end": "2026-09-29T20:00:00-03:00",
+    "venue": { "name": "Harbourside Clay Studio (made up)", "address": "Marginal Rd", "location": { "lat": 44.6397, "lng": -63.5665 } },
+    "price_cents": 3500, "categories": ["art", "workshop"],
+    "registration_required": "yes", "social": "medium"
+  },
+  {
+    "source_id": "sample", "source_event_id": "student-mixer",
+    "title": "Student Mixer Night",
+    "start": "2026-09-29T18:00:00-03:00", "end": "2026-09-29T21:00:00-03:00",
+    "venue": { "name": "Saint Mary's University", "address": "923 Robie St", "location": { "lat": 44.6313, "lng": -63.5797 } },
+    "price_cents": 0, "categories": ["social"],
+    "leave_early_ok": "yes", "social": "high"
+  },
+  {
+    "source_id": "sample", "source_event_id": "gallery-talk",
+    "title": "Gallery Talk: Contemporary Atlantic Painting",
+    "start": "2026-09-29T18:00:00-03:00", "end": "2026-09-29T19:00:00-03:00",
+    "venue": { "name": "Art Gallery of Nova Scotia", "address": "1723 Hollis St", "location": { "lat": 44.6492, "lng": -63.5733 } },
+    "price_cents": 1200, "categories": ["art", "talk"],
+    "registration_required": "no", "social": "low"
+  },
+  {
+    "source_id": "sample", "source_event_id": "tech-meetup",
+    "title": "Tech Meetup: Intro to Go",
+    "start": "2026-09-29T18:30:00-03:00", "end": "2026-09-29T20:30:00-03:00",
+    "venue": { "name": "Halifax Central Library", "address": "5440 Spring Garden Rd", "location": { "lat": 44.6425, "lng": -63.5751 } },
+    "price_cents": 0, "categories": ["technology"],
+    "registration_required": "yes", "social": "medium"
+  },
+  {
+    "source_id": "sample", "source_event_id": "chess-lunch",
+    "title": "Lunchtime Chess Club",
+    "start": "2026-09-29T12:00:00-03:00", "end": "2026-09-29T13:30:00-03:00",
+    "venue": { "name": "Killam Memorial Library", "address": "6225 University Ave", "location": { "lat": 44.6373, "lng": -63.5916 } },
+    "price_cents": 0, "categories": ["games"], "social": "medium"
+  },
+  {
+    "source_id": "sample", "source_event_id": "film-night",
+    "title": "Film Screening (cancelled)",
+    "start": "2026-09-29T18:00:00-03:00", "end": "2026-09-29T20:00:00-03:00",
+    "venue": { "name": "Halifax Central Library", "address": "5440 Spring Garden Rd", "location": { "lat": 44.6425, "lng": -63.5751 } },
+    "price_cents": 0, "cancelled": true
+  },
+  {
+    "source_id": "sample", "source_event_id": "knitting-circle",
+    "title": "Knitting Circle",
+    "description": "Venue listed only as 'north end' — not geocoded yet.",
+    "start": "2026-09-29T17:00:00-03:00", "end": "2026-09-29T18:30:00-03:00",
+    "venue": { "name": "North End (unspecified)", "address": "", "location": null },
+    "price_cents": 0, "social": "medium"
+  },
+  {
+    "source_id": "sample", "source_event_id": "park-cleanup",
+    "title": "Volunteer Shoreline Clean-up",
+    "start": "2026-09-29T16:30:00-03:00", "end": "2026-09-29T18:30:00-03:00",
+    "venue": { "name": "Point Pleasant Park", "address": "5718 Point Pleasant Dr", "location": { "lat": 44.6236, "lng": -63.5677 } },
+    "price_cents": 0, "categories": ["volunteering", "outdoors"], "outdoor": "yes", "social": "medium"
+  },
+  {
+    "source_id": "sample", "source_event_id": "trivia-wed",
+    "title": "Trivia Night",
+    "start": "2026-09-30T19:00:00-03:00", "end": "2026-09-30T21:00:00-03:00",
+    "venue": { "name": "Halifax Central Library", "address": "5440 Spring Garden Rd", "location": { "lat": 44.6425, "lng": -63.5751 } },
+    "price_cents": 0, "categories": ["games"], "social": "high"
+  }
+]
